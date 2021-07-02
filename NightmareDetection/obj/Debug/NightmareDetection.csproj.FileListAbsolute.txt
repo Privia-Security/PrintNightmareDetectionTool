@@ -1,0 +1,9 @@
+C:\Users\Mindspoof\source\repos\NightmareDetection\NightmareDetection\bin\Debug\NightmareDetection.exe
+C:\Users\Mindspoof\source\repos\NightmareDetection\NightmareDetection\bin\Debug\NightmareDetection.pdb
+C:\Users\Mindspoof\source\repos\NightmareDetection\NightmareDetection\obj\Debug\NightmareDetection.csprojAssemblyReference.cache
+C:\Users\Mindspoof\source\repos\NightmareDetection\NightmareDetection\obj\Debug\NightmareDetection.MainForm.resources
+C:\Users\Mindspoof\source\repos\NightmareDetection\NightmareDetection\obj\Debug\NightmareDetection.Properties.Resources.resources
+C:\Users\Mindspoof\source\repos\NightmareDetection\NightmareDetection\obj\Debug\NightmareDetection.csproj.GenerateResource.cache
+C:\Users\Mindspoof\source\repos\NightmareDetection\NightmareDetection\obj\Debug\NightmareDetection.csproj.CoreCompileInputs.cache
+C:\Users\Mindspoof\source\repos\NightmareDetection\NightmareDetection\obj\Debug\NightmareDetection.exe
+C:\Users\Mindspoof\source\repos\NightmareDetection\NightmareDetection\obj\Debug\NightmareDetection.pdb
